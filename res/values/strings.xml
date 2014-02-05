@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loksatta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">settings</string>
+
+    <string-array name="draweritems">
+        <item name="newsfeed">News</item>
+        <item name="leaders">Leaders</item>
+        <item name="dontate">Dontate</item>
+        <item name="volounter">Volunteer</item>
+        <item name="about">About</item>
+        <item name="gallery">Gallery</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="newsfeed_tab_array">
+        <item name="facebook">Facebook</item>
+        <item name="twiter">Twitter</item>
+    </string-array>
+
+    <string name="action_2014_elections">2014</string>
+    <string name="action_donate">Donate</string>
+
+</resources>
